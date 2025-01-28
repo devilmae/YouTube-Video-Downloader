@@ -24,7 +24,7 @@ git clone https://github.com/devilmae/YouTube-Video-Downloader.git
 Make sure the pytube library is installed. You can install it using pip:
 
 ```bash
-pip install pytube
+pip install yt_dlp
 ```
 If you already have it installed, make sure it's up to date:
 
